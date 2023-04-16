@@ -1,0 +1,19 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css");
+
+body {
+  margin: 1rem 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: whitesmoke;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 9, 81, 1) 34%,
+    rgba(255, 201, 0, 1) 100%
+  );
+}
+
+.feedback {
+  font-size: 0.875em;
+}
